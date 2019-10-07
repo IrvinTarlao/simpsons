@@ -4,6 +4,15 @@
   color: white;
 }
 
+.Navbar a {
+  text-decoration: none;
+  color: white;
+}
+
+.Navbar a:hover {
+  color: rgb(111, 190, 255);
+}
+
 .Navbar * {
   margin: 0;
 }

@@ -9,16 +9,9 @@ function Navbar() {
           href="https://fr.wikipedia.org/wiki/Les_Simpson"
           target="_blank"
           rel="noopener noreferrer">
-          The Simpsons (Wiki)</a> 
-          
-      </nav>
-      
-    );
-    
-  }
-
-// render() {
-//     <span className="Navbar"></span>
-//   };
+          The Simpsons (Wiki)</a>   
+      </nav>  
+  );
+}
   
-  export default Navbar;
+export default Navbar;
